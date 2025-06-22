@@ -27,11 +27,13 @@ Seção 1: Estruturas de Controle Avançadas
 3. Palavras Únicas
 
 Seção 2: Funções e Recursão
+
 4. Fatorial Recursivo
 5. Debounce
 6. Memoization
 
 Seção 3: Arrays e Objetos Complexos
+
 7. Mapeamento e Ordenação
 8. Agrupamento por Propriedade
 9. Conversão Entre Formatos
